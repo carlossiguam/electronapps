@@ -3,3 +3,6 @@
 
 # build-analytics
 .build-analytics
+
+#Evitando electron-quick-start
+/electron-quick-start

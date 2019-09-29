@@ -1,0 +1,17 @@
+{
+  "name": "eapp0",
+  "version": "1.0.0",
+  "description": "secondapp electron app0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eapp0"
+  ],
+  "author": "clsm",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  }
+}
