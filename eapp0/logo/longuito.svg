@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="longuito.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.621458"
+     inkscape:cy="11.948668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs815" />
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g1423"
+       transform="matrix(1.3953488,0,0,1.3953488,-3.0070436,-3.1332671)"
+       style="stroke:none;stroke-opacity:1">
+      <path
+         id="path1378"
+         d="M 10.25,2.5410156 5.8085938,2.5683594 2.6875,5.7285156 2.7148438,10.169922 5.875,13.291016 10.316406,13.263672 13.4375,10.103516 13.410156,5.6621094 Z M 8.0625,7.4042969 c 0.1240099,0 0.2203912,0.022608 0.2910156,0.068359 0.070625,0.045751 0.1074219,0.1087558 0.1074219,0.1875 0,0.056309 -0.019952,0.103426 -0.060547,0.1425782 -0.040039,0.039152 -0.096232,0.066001 -0.1679687,0.080078 0.08119,0.014957 0.1444091,0.044339 0.1894531,0.087891 0.0456,0.043551 0.068359,0.097249 0.068359,0.1601563 0,0.095461 -0.037367,0.1677202 -0.1113282,0.21875 -0.073405,0.05103 -0.1790499,0.076172 -0.3164062,0.076172 -0.1373563,0 -0.2424452,-0.025142 -0.3164062,-0.076172 -0.073405,-0.05103 -0.1113282,-0.1232892 -0.1113282,-0.21875 0,-0.062907 0.022759,-0.116605 0.068359,-0.1601563 0.0456,-0.043551 0.1102159,-0.072934 0.1914062,-0.087891 -0.072293,-0.014077 -0.1293267,-0.040926 -0.1699218,-0.080078 -0.040039,-0.039152 -0.060547,-0.086269 -0.060547,-0.1425782 0,-0.078744 0.036797,-0.1417491 0.1074219,-0.1875 0.07118,-0.045751 0.1675618,-0.068359 0.2910166,-0.068359 z m 0,0.1054687 c -0.072849,0 -0.1293267,0.014375 -0.1699219,0.042969 -0.040039,0.028594 -0.060547,0.068111 -0.060547,0.1191406 0,0.05103 0.020508,0.090546 0.060547,0.1191406 0.040595,0.028594 0.097073,0.042969 0.1699219,0.042969 0.072293,0 0.1293267,-0.014375 0.1699219,-0.042969 0.041151,-0.028594 0.060547,-0.068111 0.060547,-0.1191406 0,-0.05103 -0.019396,-0.090546 -0.060547,-0.1191406 C 8.1918267,7.5241401 8.1347928,7.5097656 8.0625,7.5097656 Z m 0,0.4296875 c -0.080078,0 -0.143297,0.016908 -0.1894531,0.050781 -0.0456,0.033873 -0.068359,0.081237 -0.068359,0.140625 0,0.059388 0.022759,0.1047986 0.068359,0.1386718 0.046156,0.033873 0.109375,0.050781 0.1894531,0.050781 0.080078,0 0.143297,-0.016908 0.1894531,-0.050781 0.046156,-0.034313 0.068359,-0.079724 0.068359,-0.1386718 0,-0.059388 -0.022203,-0.1067518 -0.068359,-0.140625 C 8.2063531,7.9563612 8.1431342,7.9394531 8.0625,7.9394531 Z"
+         style="fill:#20b2aa;fill-opacity:1;stroke:none;stroke-width:0.58960629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         ry="1.6875"
+         rx="1.671875"
+         cy="7.9160156"
+         cx="4.359375"
+         id="path1417"
+         style="fill:#f5fffa;fill-opacity:1;stroke:none;stroke-width:0.33097306;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0199407,0.98044915)"
+         id="text1386"
+         y="8.682333"
+         x="2.9571223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.6733433px;line-height:1.25;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12550075;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.12550075;stroke:none;stroke-opacity:1"
+           y="8.682333"
+           x="2.9571223"
+           id="tspan1384"
+           sodipodi:role="line">IROH</tspan></text>
+    </g>
+  </g>
+</svg>
